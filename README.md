@@ -1,0 +1,3 @@
+# StackByArray
+
+Stack using array.
